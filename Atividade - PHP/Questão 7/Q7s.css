@@ -1,0 +1,142 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Big+Shoulders:opsz,wght@10..72,100..900&family=Caprasimo&family=Micro+5&family=Quicksand:wght@300..700&display=swap');
+
+body {
+    background-color: rgb(255, 145, 0);
+    font-family: "Caprasimo", sans-serif;
+}
+
+h1 {
+    color: white;
+    position: absolute;
+    left: 50%;
+    top: 30%;
+    transform: translate(-50%, -50%);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-size: 70px;
+}
+
+.logo {
+    color: rgb(192, 70, 0);
+    position: absolute;
+    left: 50%;
+    top: 30%;
+    transform: translate(-50%, -50%);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-size: 73px ;
+}
+
+.logo1 {
+    color: rgb(220, 81, 0);
+    position: absolute;
+    left: 50%;
+    top: 5%;
+    transform: translate(-50%, -50%);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-size: 30px ;
+}
+
+.logo2 {
+    color: rgb(81, 30, 0);
+    position: absolute;
+    left: 50%;
+    top: 5%;
+    transform: translate(-50%, -50%);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-size: 32px ;
+}
+
+button {
+    position: absolute;
+    left: 50%;
+    top: 75%;
+    transform: translate(-50%, -50%);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: rgb(227, 83, 0);
+    width: 5rem;
+    height: 1.5rem;
+    text-align: center;
+    border-radius: 1rem;
+    color: white;
+    text-transform: lowercase;
+    font-family: "Caprasimo", sans-serif;
+}
+
+
+.bt2 {
+    position: absolute;
+    left: 50%;
+    top: 68%;
+    transform: translate(-50%, -50%);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: rgb(227, 83, 0);
+    width: 5rem;
+    height: 1.5rem;
+    text-align: center;
+    border-radius: 1rem;
+    color: white;
+    text-transform: lowercase;
+    font-family: "Caprasimo", sans-serif;
+}
+
+.cad {
+    background-color: rgb(255, 225, 186);
+    border-radius: 0.5rem;
+    position: absolute;
+    left: 50%;
+    top: 45%;
+    transform: translate(-50%, -50%);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 20rem;
+    height: 11rem;
+    border: solid 0.15rem rgb(81, 30, 0);
+}
+
+.i {
+    background-color: rgb(255, 106, 0);
+    border-radius: 0.5rem;
+    position: absolute;
+    left: 50%;
+    top: 60%;
+    transform: translate(-50%, -50%);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.l {
+    border-radius: 0.5rem;
+    position: absolute;
+    left: 50%;
+    top: 40%;
+    transform: translate(-50%, -50%);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color:rgb(81, 30, 0);
+}
+
+h4 {
+    border-radius: 0.5rem;
+    position: absolute;
+    left: 50%;
+    top: 60%;
+    transform: translate(-50%, -50%);
+    display: flex;
+    flex-direction: column;
+    color: rgb(81, 30, 0);
+    text-align: center;
+}
